@@ -37,7 +37,7 @@ A sugar cookie recipe and 3D printable cookie cutters from <a href="https://dorn
     <li>Powdered sugar, for rolling out dough</li>
     </ul>
     
-  <li>Mix dry (flour, baking powder and salt) in a medium bowl and set aside</li>
+  <li>Mix dry (flour, baking powder and salt) in a medium bowl and set aside.</li>
   
   <li>Beat wet (butter and sugar) in large bowl until light in color.</li>
   
@@ -45,7 +45,7 @@ A sugar cookie recipe and 3D printable cookie cutters from <a href="https://dorn
   
   <li>Gradually add flour and stir until mixture starts to pull away from the bowl.</li>  
     
-  <li>Halve the dough and wrap in waxed paper</li>
+  <li>Halve the dough and wrap in waxed paper.</li>
   
   <li>Refrigerate for 2 hours.</li></ol>
   
@@ -53,11 +53,11 @@ A sugar cookie recipe and 3D printable cookie cutters from <a href="https://dorn
   
 <li>Remove dough from refrigerator and use rolling pin sprinkled with powdered sugar to roll into 1/4-inch thick slab.</li>
 
-<li>Cut the dough into 2-inch squares and 4-inch by 2-inch rectangles</li> 
+<li>Cut the dough into 2-inch squares and 4-inch by 2-inch rectangles.</li> 
 
-<li>Shape the dough with the cookie cutters</li>
+<li>Shape the dough with the cookie cutters.</li>
 
-<li>Arrange at least 1 inch apart on baking sheet and bake for 7 to 9 minutes (remove if edges begin to brown)</li>
+<li>Arrange at least 1 inch apart on baking sheet and bake for 7 to 9 minutes (remove if edges begin to brown).</li>
 
 <li>Let cool, decorate and enjoy!</li>
 </ol>
