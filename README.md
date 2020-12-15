@@ -6,7 +6,7 @@ A sugar cookie recipe and 3D printable cookie cutters from <a href="https://dorn
 <img src="https://github.com/mattsimoto/ChristmasCookies/blob/main/cookieCutters2.jpg" width="400px"/>
 
 <ol>
-<li>Download the .stl files</li>
+<li>Download the .stl files.</li>
   <ul><li><a href="https://github.com/mattsimoto/ChristmasCookies/blob/main/DornerWorksCookieCutter%20-%20DornerWorks.stl">DornerWorks Cookie Cutter</a></li>
     <li><a href="https://github.com/mattsimoto/ChristmasCookies/blob/main/PCBCookieCutter%20-%20DornerWorks.stl">PCB Cookie Cutter</a></li>
     <li><a href="https://github.com/mattsimoto/ChristmasCookies/blob/main/CookieCutterHandle%20-%20DornerWorks.stl">Cookie Cutter Handle</a></li>
