@@ -6,12 +6,16 @@ A sugar cookie recipe and 3D printable cookie cutters from DornerWorks.
 <img src="https://github.com/mattsimoto/ChristmasCookies/blob/main/cookieCutters2.jpg" width="400px"/>
 
 <ol>
-<li>Download the .stl file</li>
+<li>Download the .stl files</li>
+  <ul><li><a href="https://github.com/mattsimoto/ChristmasCookies/blob/main/DornerWorksCookieCutter%20-%20DornerWorks.stl">DornerWorks Cookie Cutter</a></li>
+    <li><a href="https://github.com/mattsimoto/ChristmasCookies/blob/main/PCBCookieCutter%20-%20DornerWorks.stl">PCB Cookie Cutter</a></li>
+    <li><a href="https://github.com/mattsimoto/ChristmasCookies/blob/main/CookieCutterHandle%20-%20DornerWorks.stl">Cookie Cutter Handle</a></li>
+  </ul>    
 <li>Use your preferred software toolset to create a gcode appropriate to your 3D printer's profile.</li>
-<ol>
-<li>Design was printed and tested with PLA and PETG</li>
-<li>Not recommended for TPU or ABS</li>
-</ol>
+  <ol>
+    <li>Design was printed and tested with PLA and PETG</li>
+    <li>Not recommended for TPU or ABS</li>
+  </ol>
 <li>Print out the cookie cutters and handles</li>
 <li>Glue the handles onto the back of the cutters.</li>
 <li>Press no more than halfway into cold cookie dough rolled out at 1/4 inch thickness for best results.</li>
