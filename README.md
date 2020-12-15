@@ -2,6 +2,9 @@
 A sugar cookie recipe and 3D printable cookie cutters from DornerWorks.
 
 <h3>Cookie Cutter instructions</h3>
+<img src="https://github.com/mattsimoto/ChristmasCookies/blob/main/cookieCutters1.jpg" width="400px"/>
+<img src="https://github.com/mattsimoto/ChristmasCookies/blob/main/cookieCutters2.jpg" width="400px"/>
+
 <ol>
 <li>Download the .stl file</li>
 <li>Use your preferred software toolset to create a gcode appropriate to your 3D printer's profile.</li>
