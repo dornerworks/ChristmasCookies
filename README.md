@@ -1,5 +1,5 @@
 <h2>ChristmasCookies</h2>
-A sugar cookie recipe and 3D printable cookie cutters from DornerWorks.
+A sugar cookie recipe and 3D printable cookie cutters from <a href="https://dornerworks.com">DornerWorks</a>.
 
 <h3>Cookie Cutter instructions</h3>
 <img src="https://github.com/mattsimoto/ChristmasCookies/blob/main/cookieCutters1.jpg" width="400px"/>
